@@ -3,11 +3,11 @@
 Atualmente pretendo me tornar um desenvolvedor web
 
 👨‍💻Habilidades:
-HTML - Intermediário
-CSS - Intermediário
-WORDPRESS - Intermediário
-SQL - Básico
-JAVA - Básico
+HTML - Intermediário;
+CSS - Intermediário;
+WORDPRESS - Intermediário;
+SQL - Básico;
+JAVA - Básico;
 
 📖Atualmente aprendendo React Native
 <!--
