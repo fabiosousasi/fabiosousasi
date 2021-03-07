@@ -1,6 +1,8 @@
-### Hi there 👋, I'M Fábio Sousa
+### Hi there 👋, I'm Fábio Sousa
 
+Currently I intend to become a web developer
 
+Skils - HTML, CSS, WORDPRESS, SQL, JAVA
 <!--
 **fabiosousasi/fabiosousasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
