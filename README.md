@@ -1,8 +1,15 @@
-### Hi there 👋, I'm Fábio Sousa
+### Olá 👋, me chamo Fábio Sousa
 
-Currently I intend to become a web developer
+Atualmente pretendo me tornar um desenvolvedor web
 
-👨‍💻Skils - HTML, CSS, WORDPRESS, SQL, JAVA
+👨‍💻Habilidades:
+HTML - Intermediário
+CSS - Intermediário
+WORDPRESS - Intermediário
+SQL - Básico
+JAVA - Básico
+
+Atualmente aprendendo React Native
 <!--
 **fabiosousasi/fabiosousasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
