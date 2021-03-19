@@ -4,17 +4,17 @@ Atualmente pretendo me tornar um desenvolvedor web
 
 👨‍💻Habilidades:
 
-HTML - Intermediário;
+MySQL - Básico;
 
-CSS - Intermediário;
+JAVA - Pré-Intermediário;
+
+HTML - Pré-Intermediário;
+
+CSS - Pré-Intermediário;
 
 WORDPRESS - Intermediário;
 
-SQL - Básico;
-
-JAVA - Básico;
-
-📖Atualmente aprendendo React Native
+📖Atualmente aprendendo: React Native e MongoDB
 <!--
 **fabiosousasi/fabiosousasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
