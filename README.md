@@ -1,7 +1,5 @@
 ### Olá 👋, me chamo Fábio Sousa
 
-Atualmente pretendo me tornar um desenvolvedor web
-
 👨‍💻Habilidades:
 
 MySQL - Básico;
