@@ -4,15 +4,13 @@
 
 MySQL - Básico;
 
-JAVA - Pré-Intermediário;
+HTML - Intermediário;
 
-HTML - Pré-Intermediário;
+CSS - Intermediário;
 
-CSS - Pré-Intermediário;
+JavaScript - Intermediário;
 
 WORDPRESS - Intermediário;
-
-📖Atualmente aprendendo: React Native e MongoDB
 <!--
 **fabiosousasi/fabiosousasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
