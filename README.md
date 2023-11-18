@@ -2,7 +2,7 @@
 
 👨‍💻Habilidades:
 
-MySQL - Básico;
+MySQL - Intermediário;
 
 HTML - Intermediário;
 
@@ -10,7 +10,7 @@ CSS - Intermediário;
 
 JavaScript - Intermediário;
 
-WORDPRESS - Intermediário;
+WORDPRESS - Avançado;
 <!--
 **fabiosousasi/fabiosousasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
