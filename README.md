@@ -1,16 +1,18 @@
-### Olá 👋, me chamo Fábio Sousa
+### Olá 👋, me chamo Fábio Sousa - DEV FRONT END
 
 👨‍💻Habilidades:
 
-MySQL - Intermediário;
+Zapier
 
-HTML - Intermediário;
+MySQL
 
-CSS - Intermediário;
+HTML
 
-JavaScript - Intermediário;
+CSS
 
-WORDPRESS - Avançado;
+JavaScript
+
+WordPress
 <!--
 **fabiosousasi/fabiosousasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
