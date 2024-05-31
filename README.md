@@ -1,4 +1,4 @@
-### Olá 👋, me chamo Fábio Sousa - DEV FRONT END
+![image](https://github.com/fabiosousasi/fabiosousasi/assets/60480795/8d702462-0827-4f65-85df-378993862126)### Olá 👋, me chamo Fábio Sousa - DEV FRONT END
 
 👨‍💻Habilidades:
 
@@ -11,6 +11,9 @@ HTML
 CSS
 
 JavaScript
+
+<img src="![image](https://github.com/fabiosousasi/fabiosousasi/assets/60480795/25ab16a3-e09f-4782-8fc3-db40bf7a5046)
+">
 
 WordPress
 
