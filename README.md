@@ -2,8 +2,6 @@
 
 👨‍💻Habilidades:
 
-![Descrição da imagem]([(https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg)](https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg))
-
 Zapier
 
 MySQL
