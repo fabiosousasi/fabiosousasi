@@ -1,18 +1,12 @@
-Olá 👋, me chamo Fábio Sousa - DEV FRONT END
+Olá 👋, me chamo Fábio Sousa - DEV FRONT-END
+
+Contato: 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-sousa-fscdev/)
 
 👨‍💻Habilidades:
 
-Zapier
-
-MySQL
-
-HTML
-
-CSS
-
-JavaScript
-
-WordPress
+[![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) [![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 Tenho mais de 3 anos de experiência no desenvolvimento e manutenção de sites utilizando WordPress (com o construtor de páginas Elementor), HTML, CSS, JS, MySQL, além de integrações com ferramentas de automação como o Zapier. Também possuo conhecimento em configurar e implantar sites em diferentes plataformas de hospedagem, garantindo sua disponibilidade e desempenho otimizado, incluindo integração com o Cloudflare para melhorias de segurança e desempenho.
 <!--
