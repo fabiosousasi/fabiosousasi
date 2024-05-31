@@ -12,9 +12,7 @@ CSS
 
 JavaScript
 
-![Logo do WordPress]![image](https://github.com/fabiosousasi/fabiosousasi/assets/60480795/73985e37-91cd-4cec-8015-b31e0ba772c8)
-
-
+WordPress
 
 Tenho mais de 3 anos de experiência no desenvolvimento e manutenção de sites utilizando WordPress (com o construtor de páginas Elementor), HTML, CSS, JS, MySQL, além de integrações com ferramentas de automação como o Zapier. Também possuo conhecimento em configurar e implantar sites em diferentes plataformas de hospedagem, garantindo sua disponibilidade e desempenho otimizado, incluindo integração com o Cloudflare para melhorias de segurança e desempenho.
 <!--
